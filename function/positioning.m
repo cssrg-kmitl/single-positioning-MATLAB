@@ -14,7 +14,7 @@ function positioning(obs,nav,doy,S_path)
 
 %% Setting#2
 stt     = 0;    % start UTC time(hour)
-stp     = 23.5;   % stop  UTC time(hour)
+stp     = 22.5;   % stop  UTC time(hour)
 int     = 30;   % interval second
 % ======================================
 % Ref position (Read PPP from PPPindex.txt)
