@@ -26,3 +26,5 @@ mode 1 = No atmospheric delay correction
 mode 2 = Tropospheric delay correction
 mode 3 = Ionospheric  delay correction
 mode 4 = Tropospheric+Ionospheric delay correction
+
+PS. From the example, plese un-compress RINEX file first (/RINEX)
