@@ -24,7 +24,7 @@ try
 catch
 	 axes( 'Position', [0, 0.95, 1, 0.05] ) ;
      set( gca, 'Color', 'None', 'XColor', 'None', 'YColor', 'None' ) ;
-     text( 0.5, 0, ['Positioning at ' station ' station date:' year '/' month '/' date], 'FontSize', ...
+     text( 0.5, 0, ['Positioning at ' station ' station date:' year '/' month '/' date], 'FontSize', 14', ...
       'HorizontalAlignment', 'Center', 'VerticalAlignment', 'Bottom' ) ;
 end
 for mode = 1:4
