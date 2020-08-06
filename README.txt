@@ -15,6 +15,7 @@ or download: http://cygwin.com/install.html
 - http://iono-gnss.kmitl.ac.th/
 
 =================================================
+Advisor: Prof.Dr. Pornchai Supnithi
 CSSRG Laboratory
 School of Telecommunication Engineering
 Faculty of Engineering
