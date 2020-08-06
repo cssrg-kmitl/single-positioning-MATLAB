@@ -1,7 +1,7 @@
 This is the README file for 
 the single point positioning on MATLAB from RINEX 2.11 
 >> Calculate user position by using the single point method
-Original by Napat Tongkasem
+Original by Napat Tongkasem, Somkit Sopan, Jirapoom Budtho, Nantavit Wongthodsarat
 Version 1.00 
 (15/02/2019) - Create the program
 
